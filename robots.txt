@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pleasantonpestcontrolco.com/sitemap.xml
